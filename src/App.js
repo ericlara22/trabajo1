@@ -3,7 +3,7 @@ import Boton from './components/Boton';
 
 const App=()=> {
 
-const [numero, setNumero] = useState(5)
+const [numero, setNumero] = useState(4)
 
 
   return(
